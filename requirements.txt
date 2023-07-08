@@ -1,0 +1,6 @@
+django 
+django_taggit
+Markdown
+psycopg2
+psycopg2-binary
+python-dotenv
